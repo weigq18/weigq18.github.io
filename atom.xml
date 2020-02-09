@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://weigq18.github.io/"/>
-  <updated>2020-01-19T15:34:06.697Z</updated>
+  <updated>2020-02-09T15:00:00.250Z</updated>
   <id>https://weigq18.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>jenkins安装</title>
+    <link href="https://weigq18.github.io/2020/02/09/jenkins-an-zhuang/"/>
+    <id>https://weigq18.github.io/2020/02/09/jenkins-an-zhuang/</id>
+    <published>2020-02-09T13:32:02.000Z</published>
+    <updated>2020-02-09T15:00:00.250Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Jenkins&quot;&gt;&lt;a href=&quot;#Jenkins&quot; class=&quot;headerlink&quot; title=&quot;Jenkins&quot;&gt;&lt;/a&gt;Jenkins&lt;/h2&gt;&lt;p&gt;Jenkins是一款开源 CI&amp;amp;CD
+        
+      
+    
+    </summary>
+    
+      <category term="笔记" scheme="https://weigq18.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="笔记" scheme="https://weigq18.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>2020-01-19</title>
