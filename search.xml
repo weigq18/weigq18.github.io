@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>2020-02-09</title>
+      <link href="/2020/02/09/2020-02-09/"/>
+      <url>/2020/02/09/2020-02-09/</url>
+      
+        <content type="html"><![CDATA[<h3 id="总体"><a href="#总体" class="headerlink" title="总体"></a>总体</h3><p>2020年春节真的好难，受新冠疫情，导致本该1月31号上班，拖延到2月10号，并且大部分公司10号也只是远程办公。这段时间一直呆家里，按说应该有大量时间学习，但不知道是不是因为被困而导致逆反心理，反而学习效率特别低下。总之，希望疫情能够早点过去。</p><h3 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h3><p>一直没断过，就算是大年三十那天都在背诵，但还没检验过，不知道效果怎么样。找个机会验证一下背诵效果。</p><h3 id="运动"><a href="#运动" class="headerlink" title="运动"></a>运动</h3><p>无无无</p><h3 id="日常技术"><a href="#日常技术" class="headerlink" title="日常技术"></a>日常技术</h3><ul><li><p>jenkins</p><p>一直想使用，都没什么时间研究，趁这段时间学习了下，年后开始应用</p></li><li><p>docker<br>很早就学过，但受限于公司的环境没什么机会用到，这次算是复习了下，把开发环境的工具部署到docker里，总算找到一点用武之地。</p></li></ul><h3 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h3><ul><li>《code》</li></ul><p>原先计划这周看完，但发现中间有几章讲存储器、自动操作的电路原理实现、芯片设计，这里干货太多，看的晕晕乎乎，中间卡了很久，现在看到19章了就比较顺了，这次预估应该在1周内看完。</p><ul><li>《程序员的英语》</li></ul><p>无</p><ul><li>《程序员的算法趣题》</li></ul><p>刷了几道题，前面几章有点简单，没什么意思，看看后面会不会稍微有点意思</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 一周总结 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 一周总结 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>jenkins安装</title>
       <link href="/2020/02/09/jenkins-an-zhuang/"/>
       <url>/2020/02/09/jenkins-an-zhuang/</url>

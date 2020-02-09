@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://weigq18.github.io/2020/02/09/jenkins-an-zhuang/</loc>
+    <loc>https://weigq18.github.io/2020/02/09/2020-02-09/</loc>
+    <lastmod>2020-02-09</lastmod>
+  </url>  <url>
+    <loc>https://weigq18.github.io/2020/01/19/2020-01-19/</loc>
     <lastmod>2020-02-09</lastmod>
   </url>  <url>
     <loc>https://weigq18.github.io/2020/01/12/2020-01-12/</loc>
-    <lastmod>2020-01-19</lastmod>
+    <lastmod>2020-02-09</lastmod>
   </url>  <url>
-    <loc>https://weigq18.github.io/2020/01/19/2020-01-19/</loc>
-    <lastmod>2020-01-19</lastmod>
+    <loc>https://weigq18.github.io/2020/02/09/jenkins-an-zhuang/</loc>
+    <lastmod>2020-02-09</lastmod>
   </url>  <url>
     <loc>https://weigq18.github.io/2020/01/08/2020-todolist/</loc>
     <lastmod>2020-01-08</lastmod>
